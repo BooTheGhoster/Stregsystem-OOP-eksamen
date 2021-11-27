@@ -1,0 +1,4 @@
+﻿namespace Stregsystem___eksamensopgave
+{
+    
+}
